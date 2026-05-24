@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello, I'm yoav! 👋
 
-<!--
-**yoavChokronYair/yoavChokronYair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+*   🎓 **17 years old** | High School Senior
+*   🤖 **FRC Head Of Software** | Robot control logic & physics simulations
+*   🤖 **FRC Head Of development** | flutter apps development & & Scouting systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+*   ⚙️ **High-Level:** C# (.NET), Java, Python, Flutter,MatLab
+*   🌐 **Networking:** TCP/UDP, Custom binary protocols, WinSock
+*   🏗️ **Architecture:** SOLID, Clean Code, MVVM
+*   🚀 **DevOps:** Git, GitHub Actions
+
+---
+
+### Contact Me
+*   💼 **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/yoav-chocron-yair-526aa8381/)
+*   📧 **Email:** [yoavyairwork@gmail.com](mailto:yoavyairwork@gmail.com)
