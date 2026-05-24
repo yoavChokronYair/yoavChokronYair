@@ -3,7 +3,7 @@
 ### About Me
 *   🎓 **17 years old** | High School Senior
 *   🤖 **FRC Head Of Software** | Robot control logic & physics simulations
-*   🤖 **FRC Head Of development** | flutter apps development & & Scouting systems
+*   🤖 **FRC Head Of Software Product** | flutter apps development & & Scouting systems
 
 ---
 
